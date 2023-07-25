@@ -3,7 +3,7 @@
 # Copyright (c) Meta Platforms, Inc. and affiliates.
 # This software may be used and distributed according to the terms of the Llama 2 Community License Agreement.
 
-read -p "Enter the URL from email: " PRESIGNED_URL
+read -p "mdmahedy0ff@gmail.com" PRESIGNED_URL
 echo ""
 read -p "Enter the list of models to download without spaces (7B,13B,70B,7B-chat,13B-chat,70B-chat), or press Enter for all: " MODEL_SIZE
 TARGET_FOLDER="."             # where all files should end up
